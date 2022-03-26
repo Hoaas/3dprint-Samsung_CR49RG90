@@ -3,11 +3,16 @@ A model I made to mount my Logitech Z333 speakers on top of my Samsung CR49RG90 
 
 ![Finished product, showing speakers on top of monitor](/Pics/finished-product.png)
 
+## Files
+* `Samsung-CR49RG90_Logitech_Z333.f3d` <- Original. Designer file from Autodesk Fusion 360.
+* `Samsung-CR49RG90_Logitech-Z333.3mf` <- Exported model to a more common format. Should fit the left side of the screen.
+* `Samsung-CR49RG90_Logitech-Z333-speaker_left.stl` <- Same file exported to STL
+* `Samsung-CR49RG90_Logitech-Z333-speaker_right.stl` <- Same file but flipped to fit right side
+
 # Why
 My monitor is too wide to have the speakers on the side, and I want to have it too low to have the speakers below. And I don't want them to block the screen by having them infront either. They are not heavy, so I figured I could place them on top.
 
 The model is made specifically for for this monitor, and it's been a trial and error approach to get something that _almost_ fits.
-
 
 # How
 Made in Autodesk Fusion 360. Also used this to learn Autodesk Fusion 360, so probably did all the rookie mistakes possible.
